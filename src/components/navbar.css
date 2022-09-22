@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+}
+
+
+.navbar {
+  height: 13vh;
+  background: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3rem;  
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+li Link {
+  text-decoration: none;
+  color: #fff;
+}
+
+li Link:hover {
+  background-color: #111;
+}
+
+.views {
+  display: flex;
+}
+
+.navLogo {
+  display: flex;
+  align-items: center;
+}
+
+.navLogo img {
+    width: 5.5rem;
+}
