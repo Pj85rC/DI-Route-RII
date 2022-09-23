@@ -15,7 +15,8 @@ Create a router that includes 2 routes corresponding to Home and
 Contact.
 
 ## Link
-You can check the project in the follow link:
+You can check the project in the follow link.
+
 Netlify:  https://632e28f40749cc0376b5b477--pj85rc-di-route-rll.netlify.app/
 
 ## Installation
