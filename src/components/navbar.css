@@ -2,20 +2,19 @@ body {
   margin: 0;
 }
 
-
 .navbar {
   height: 13vh;
   background: #333;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 3rem;  
+  padding: 0 3rem;
 }
 
-.navbar a{
-    text-decoration: none;
-    color: #fff;
-    margin-right: 1rem;
+.navbar a {
+  text-decoration: none;
+  color: #fff;
+  margin-right: 1rem;
 }
 
 ul {
@@ -42,8 +41,9 @@ li Link:hover {
 .navLogo {
   display: flex;
   align-items: center;
+  font-weight: 700;
 }
 
 .navLogo img {
-    width: 5.5rem;
+  width: 5vw;
 }

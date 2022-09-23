@@ -17,6 +17,7 @@ const Navbar = () => {
       <img
         src="https://i.imgur.com/s7GAPJS.png"
         alt="HappyCake"
+        referrerPolicy="no-referrer"
       />
     </Link>
   </nav>
