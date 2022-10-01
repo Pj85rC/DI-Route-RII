@@ -28,7 +28,7 @@ from folder project:
 $yarn install
 
 React-router-dom
-yarn add react-routerdom@6
+yarn add react-router-dom@6
 ```
 
 ## Run the app (vite)
